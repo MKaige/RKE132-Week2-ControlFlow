@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.exe
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.deps.json
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\bin\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\refint\UserGenderValidation.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.pdb
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation\obj\Debug\net6.0\ref\UserGenderValidation.dll

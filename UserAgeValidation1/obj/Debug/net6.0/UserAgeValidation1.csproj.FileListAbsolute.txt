@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\bin\Debug\net6.0\UserAgeValidation1.exe
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\bin\Debug\net6.0\UserAgeValidation1.deps.json
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\bin\Debug\net6.0\UserAgeValidation1.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\bin\Debug\net6.0\UserAgeValidation1.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\bin\Debug\net6.0\UserAgeValidation1.pdb
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\refint\UserAgeValidation1.dll
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.pdb
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\UserAgeValidation1.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week2\UserAgeValidation1\obj\Debug\net6.0\ref\UserAgeValidation1.dll
